@@ -1,13 +1,32 @@
-### 👋 Hi, I’m @itslucky07
+## Hey there! 👋 I'm Lucky (@itslucky07)
 
-- 👀 I’m interested in Python, Machine Learning, AI, and Web Development  
-- 🌱 I’m currently learning Machine Learning and exploring real-world AI applications  
-- 💞️ I’m looking to collaborate on open-source projects related to AI, web development, or automation  
-- 📫 How to reach me:  
-  📧 luckysharma7578@gmail.com  
-  📱 +91 9670240625  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I love turning complex problems into simple, elegant solutions with code!
+🚀 Passionate about building smart and scalable tech solutions.
+
+### 🧠 What I'm Into
+- 🤖 Artificial Intelligence & Machine Learning
+- 🌐 Web Development (Frontend + Backend)
+- 🐍 Python Programming
+- 💡 Automating boring stuff with code
+
+### 📚 Currently Learning
+- Machine Learning (Scikit-learn, TensorFlow, and beyond)
+- Advanced Python techniques
+- Web frameworks like Django & Flask
+
+### 🤝 Looking to Collaborate On
+- AI/ML-based tools and models
+- Full-stack web applications
+- Open-source contributions
+
+### 📬 Let's Connect!
+- Email: [luckysharma7578@gmail.com](mailto:luckysharma7578@gmail.com)
+- Phone: +91 9670240625
+
+### 🧔 Pronouns
+- He/Him
+
+### 🎉 Fun Fact
+I love solving logic puzzles, and I believe coffee + code = productivity ☕💻
 
 ---
 
