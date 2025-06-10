@@ -6,7 +6,7 @@
 - 🤖 Artificial Intelligence & Machine Learning
 - 🌐 Web Development (Frontend + Backend)
 - 🐍 Python Programming
-- 💡 Automating boring stuff with code
+ 
 
 ### 📚 Currently Learning
 - Machine Learning (Scikit-learn, TensorFlow, and beyond)
