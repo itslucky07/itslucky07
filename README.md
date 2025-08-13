@@ -11,7 +11,7 @@
 ### 📚 Currently Learning
 - Machine Learning (Scikit-learn, TensorFlow, and beyond)
 - Advanced Python techniques
-- Web frameworks like Django & Flask
+ 
 
 ### 🤝 Looking to Collaborate On
 - AI/ML-based tools and models
