@@ -20,10 +20,9 @@
 
 ### 📬 Let's Connect!
 - Email: [luckysharma7578@gmail.com](mailto:luckysharma7578@gmail.com)
-- Phone: +91 9670240625
+ 
 
-### 🧔 Pronouns
-- He/Him
+ 
 
 ### 🎉 Fun Fact
 I love solving logic puzzles, and I believe coffee + code = productivity ☕💻
